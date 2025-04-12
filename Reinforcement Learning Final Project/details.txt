@@ -1,0 +1,6 @@
+Nimrod Boazi - 208082735
+Raz Atiya - 318334687
+
+Training Notebook - https://colab.research.google.com/drive/16-DNW7a8mNE3A0XB0Um-6-dqNke7HYAK#scrollTo=gHBpxJ5QPrib
+
+Validation Notebook - https://colab.research.google.com/drive/1IlSxZKgiehWPI1SXTkj7esK6KuhCZk5L#scrollTo=OGJJJ326xWDD

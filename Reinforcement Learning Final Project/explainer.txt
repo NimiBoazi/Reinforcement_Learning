@@ -1,0 +1,4 @@
+Validation notebook: press run all and go to Validation section to see results
+The number of validation episodes can be changed via the slider titled, num_of_runs
+
+Training notebook: Training videos are printed after training loops and episode logs.
